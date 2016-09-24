@@ -4,7 +4,14 @@ public class Annuncio {
 	
 	public String displayAnnuncio(){
 		
-		return "questo e un annuncio";
+		String str= "AAA";
+		  str+="BBB";
+		
+		for(int i=0 ; i<5 ; i++){
+			str+="  "+i;
+		}
+		
+		return str;
 	}
 
 }
