@@ -11,6 +11,8 @@ public class Example {
 		
 		System.out.println(a.displayAnnuncio());
 		
+		System.out.println("qualche cambio");
+		
 		
 	}
 
