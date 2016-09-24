@@ -7,11 +7,11 @@ public class Example {
 		
 		Annuncio a= new Annuncio();
 		
-		System.out.println("Hello world");
+		System.out.println("chenged default");
 		
 		System.out.println(a.displayAnnuncio());
-		
-		System.out.println("qualche cambio");
+		 
+		System.out.println("change default cambio");
 		
 		
 		System.out.println("cambiamento da Beny");
