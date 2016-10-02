@@ -11,8 +11,15 @@ public class Example {
 	public static void main(String[] args) {
 		
 		// change 1
+
 		// change 2
+<<<<<<< HEAD
 		// change 3
+=======
+
+		// chANGE 3
+	
+>>>>>>> branch 'master' of https://github.com/s183534/SimpleProject.git
 		Annuncio a= new Annuncio();
 		
 		System.out.println("chenged default");
